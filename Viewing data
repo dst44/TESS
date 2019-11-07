@@ -4,14 +4,14 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "# First Look: *Unboxing* the TESS Target Pixel Files"
+    "# First Look: The TESS Target Pixel Files"
    ]
   },
   {
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "In this [unboxing video](https://en.wikipedia.org/wiki/Unboxing), we take a first look at data from the [Transiting Exoplanet Survey Satellite](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite), *TESS*, using our lightkurve toolkit developed for Kepler/K2 data."
+    "We take a first look at data from the [Transiting Exoplanet Survey Satellite](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite), *TESS*, using our lightkurve toolkit developed for Kepler/K2 data."
    ]
   },
   {
